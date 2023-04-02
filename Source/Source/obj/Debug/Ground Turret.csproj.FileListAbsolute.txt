@@ -1,0 +1,12 @@
+D:\Game\Steam\steamapps\common\RimWorld\ModsProject\Ground Turret Mod\Source\Source\obj\Debug\Ground Turret.csproj.AssemblyReference.cache
+D:\Game\Steam\steamapps\common\RimWorld\ModsProject\Ground Turret Mod\Source\Source\obj\Debug\Ground Turret.GeneratedMSBuildEditorConfig.editorconfig
+D:\Game\Steam\steamapps\common\RimWorld\ModsProject\Ground Turret Mod\Source\Source\obj\Debug\Ground Turret.csproj.CoreCompileInputs.cache
+D:\Game\Steam\steamapps\common\RimWorld\ModsProject\Ground Turret Mod\1.4\Assemblies\Ground Turret.dll
+D:\Game\Steam\steamapps\common\RimWorld\ModsProject\Ground Turret Mod\Source\Source\obj\Debug\Ground Turret.csproj.CopyComplete
+D:\Game\Steam\steamapps\common\RimWorld\ModsProject\Ground Turret Mod\Source\Source\obj\Debug\Ground Turret.dll
+D:\Game\Steam\steamapps\common\RimWorld\ModsProject\Ground Turret\1.4\Assemblies\Ground Turret.dll
+D:\Game\Steam\steamapps\common\RimWorld\ModsProject\Ground Turret\Source\Source\obj\Debug\Ground Turret.csproj.AssemblyReference.cache
+D:\Game\Steam\steamapps\common\RimWorld\ModsProject\Ground Turret\Source\Source\obj\Debug\Ground Turret.GeneratedMSBuildEditorConfig.editorconfig
+D:\Game\Steam\steamapps\common\RimWorld\ModsProject\Ground Turret\Source\Source\obj\Debug\Ground Turret.csproj.CoreCompileInputs.cache
+D:\Game\Steam\steamapps\common\RimWorld\ModsProject\Ground Turret\Source\Source\obj\Debug\Ground Turret.csproj.CopyComplete
+D:\Game\Steam\steamapps\common\RimWorld\ModsProject\Ground Turret\Source\Source\obj\Debug\Ground Turret.dll
