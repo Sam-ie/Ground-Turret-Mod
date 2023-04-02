@@ -11,8 +11,7 @@
 			<li Class="PatchOperationAdd">
 				<xpath>Defs/ThingDef[defName="PulsefireTwinCannon"]/comps</xpath>
 			<value>
-				<li Class="GTM.Comp_GTM_Base">
-				</li>
+				<li Class="GTM.Comp_GTM_Base"/>
 			</value>
 			</li>
 			<li Class="PatchOperationAdd">

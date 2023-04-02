@@ -4,25 +4,19 @@
   <!-- Using the magical wonders of JecsTools -->
   <Operation Class="PatchOperationFindMod">
 	<mods>
-		<li>Rimlaser</li>
+		<li>Vanilla Factions Expanded - Ancients</li>
 	</mods>
 	<match Class="PatchOperationSequence">
 		<success>Always</success>
 		<operations>
 			<li Class="PatchOperationAdd">
-				<xpath>Defs/ThingDef[defName="MiniTurret_Laser"]/comps</xpath>
+				<xpath>Defs/ThingDef[defName="VFEA_Turret_AncientSecurityTurret"]/comps</xpath>
 				<value>
 					<li Class="GTM.Comp_GTM_Base"/>
 				</value>
 			</li>
 			<li Class="PatchOperationAdd">
-				<xpath>Defs/ThingDef[defName="Turret_Laser"]/comps</xpath>
-				<value>
-					<li Class="GTM.Comp_GTM_Base"/>
-				</value>
-			</li>
-			<li Class="PatchOperationAdd">
-				<xpath>Defs/ThingDef[defName="TurretLaserHeavyMinigun"]/comps</xpath>
+				<xpath>Defs/ThingDef[defName="VFEA_Turret_AncientPointDefense"]/comps</xpath>
 				<value>
 					<li Class="GTM.Comp_GTM_Base"/>
 				</value>
