@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vcWqJ8MeUv0LaL0e4Sxz52hBIiUColW8gugxWYc8L6kwybYqP/F8/TfcpVYH+yevFi7Wz2ftBkeyDM223Wn4+A==",
+  "dgSpecHash": "6kYxND1LT87YAza4R2II3Me050IRSlKilNnKlvV19L8CuT582w48ysioO07b59AnEpfi/4DIFMpxBBiAswv6xA==",
   "success": true,
-  "projectFilePath": "D:\\Game\\Steam\\steamapps\\common\\RimWorld\\ModsProject\\Ground Turret Mod\\Source\\Source\\Ground Turret Mod.csproj",
+  "projectFilePath": "D:\\Game\\Steam\\steamapps\\common\\RimWorld\\ModsProject\\Ground-Turret-Mod\\Source\\Source\\Ground Turret Mod.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\11634\\.nuget\\packages\\krafs.publicizer\\1.0.3\\krafs.publicizer.1.0.3.nupkg.sha512",
     "C:\\Users\\11634\\.nuget\\packages\\krafs.rimworld.ref\\1.4.3682\\krafs.rimworld.ref.1.4.3682.nupkg.sha512",

@@ -71,7 +71,7 @@ namespace GTM
                 needStuff = false;
             }
             bool UsualSize = (this.parent.def.size.x == this.parent.def.size.z);
-            Thing thing = GenSpawn.Spawn(ThingMaker.MakeThing(ThingDef.Named("GTM_Hatch"), thatstuff), loc, map, 0);
+            Thing thing = GenSpawn.Spawn(ThingMaker.MakeThing(ThingDef.Named("GTM_Hatch_Small"), thatstuff), loc, map, 0);
             if (this.Props.Customhatch != "")
                 thing = GenSpawn.Spawn(ThingMaker.MakeThing(ThingDef.Named(this.Props.Customhatch), thatstuff), loc, map, 0);
             else if (UsualSize)

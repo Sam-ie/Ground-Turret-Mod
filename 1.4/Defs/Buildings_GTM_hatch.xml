@@ -57,7 +57,7 @@
     <label>Small Hatch</label>
     <size>(1,1)</size>
     <graphicData>
-      <texPath>Things/Building/GTM_Hatch</texPath>
+      <texPath>Things/Building/GTM_Hatch_Small</texPath>
       <drawSize>(1, 1)</drawSize>
 	</graphicData>
     <comps>
@@ -97,7 +97,7 @@
     <label>Large Hatch</label>
     <size>(3,3)</size>
     <graphicData>
-      <texPath>Things/Building/GTM_Hatch</texPath>
+      <texPath>Things/Building/GTM_Hatch_Large</texPath>
       <graphicClass>Graphic_Single</graphicClass>
       <drawSize>(3, 3)</drawSize>
 	</graphicData>
@@ -118,7 +118,7 @@
     <label>Extra Large Hatch</label>
     <size>(4,4)</size>
     <graphicData>
-      <texPath>Things/Building/GTM_Hatch</texPath>
+      <texPath>Things/Building/GTM_Hatch_Large</texPath>
       <graphicClass>Graphic_Single</graphicClass>
       <drawSize>(4, 4)</drawSize>
 	</graphicData>
@@ -139,7 +139,7 @@
     <label>Huge Hatch</label>
     <size>(5,5)</size>
     <graphicData>
-      <texPath>Things/Building/GTM_Hatch</texPath>
+      <texPath>Things/Building/GTM_Hatch_Large</texPath>
       <graphicClass>Graphic_Single</graphicClass>
       <drawSize>(5, 5)</drawSize>
 	</graphicData>
@@ -160,7 +160,7 @@
     <label>Ultra Huge Hatch</label>
     <size>(7,7)</size>
     <graphicData>
-      <texPath>Things/Building/GTM_Hatch</texPath>
+      <texPath>Things/Building/GTM_Hatch_Large</texPath>
       <graphicClass>Graphic_Single</graphicClass>
       <drawSize>(7, 7)</drawSize>
 	</graphicData>

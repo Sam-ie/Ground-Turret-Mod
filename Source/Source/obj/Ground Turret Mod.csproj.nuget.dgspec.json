@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Game\\Steam\\steamapps\\common\\RimWorld\\ModsProject\\Ground Turret Mod\\Source\\Source\\Ground Turret Mod.csproj": {}
+    "D:\\Game\\Steam\\steamapps\\common\\RimWorld\\ModsProject\\Ground-Turret-Mod\\Source\\Source\\Ground Turret Mod.csproj": {}
   },
   "projects": {
-    "D:\\Game\\Steam\\steamapps\\common\\RimWorld\\ModsProject\\Ground Turret Mod\\Source\\Source\\Ground Turret Mod.csproj": {
+    "D:\\Game\\Steam\\steamapps\\common\\RimWorld\\ModsProject\\Ground-Turret-Mod\\Source\\Source\\Ground Turret Mod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Game\\Steam\\steamapps\\common\\RimWorld\\ModsProject\\Ground Turret Mod\\Source\\Source\\Ground Turret Mod.csproj",
+        "projectUniqueName": "D:\\Game\\Steam\\steamapps\\common\\RimWorld\\ModsProject\\Ground-Turret-Mod\\Source\\Source\\Ground Turret Mod.csproj",
         "projectName": "Ground Turret Mod",
-        "projectPath": "D:\\Game\\Steam\\steamapps\\common\\RimWorld\\ModsProject\\Ground Turret Mod\\Source\\Source\\Ground Turret Mod.csproj",
+        "projectPath": "D:\\Game\\Steam\\steamapps\\common\\RimWorld\\ModsProject\\Ground-Turret-Mod\\Source\\Source\\Ground Turret Mod.csproj",
         "packagesPath": "C:\\Users\\11634\\.nuget\\packages\\",
-        "outputPath": "D:\\Game\\Steam\\steamapps\\common\\RimWorld\\ModsProject\\Ground Turret Mod\\Source\\Source\\obj\\",
+        "outputPath": "D:\\Game\\Steam\\steamapps\\common\\RimWorld\\ModsProject\\Ground-Turret-Mod\\Source\\Source\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\11634\\AppData\\Roaming\\NuGet\\NuGet.Config",
